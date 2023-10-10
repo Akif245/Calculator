@@ -1,10 +1,12 @@
 .textcenter{
           text-align: center;
           font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-          margin: 15px;
+          /* margin: 15px; */
+          background : rgb(255, 238, 0);
+          padding: 20px;
 }
 .bg-red{
-          background: rgb(0, 0, 0);
+          background: rgb(255, 238, 0);
 }
 .flex{
 display: flex;
