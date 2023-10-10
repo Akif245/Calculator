@@ -1,0 +1,14 @@
+.textcenter{
+          text-align: center;
+          font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+          margin: 15px;
+}
+.bg-red{
+          background: rgb(0, 0, 0);
+}
+.flex{
+display: flex;
+}
+.flex-col{
+flex-direction: column;
+}
