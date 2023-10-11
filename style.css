@@ -1,10 +1,7 @@
 *{
           margin: 0;
           padding: 0;
-          /* margin-bottom: -20px; */
 }
-
-
 html, body{
 height: 100%;
 width: 100%;
@@ -15,10 +12,10 @@ width: 100%;
           margin: 0 5px;
           cursor: pointer;
           width: 60px;
-          border: solid black 3px;
-         
+          border: solid black 3px;       
 }
 .container{
+          
           align-items: center;
 }
 .row{
@@ -29,7 +26,6 @@ width: 100%;
           width: 240px;
           border-radius: 15px;
           padding: 15px;
-
           border: solid black 3px;
 
 }
